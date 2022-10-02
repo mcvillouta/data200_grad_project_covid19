@@ -1,5 +1,6 @@
+# DATA 200: Graduate Project
+
 ## Covid-19 Deaths Forecast
-## DATA 200: Graduate Project
 
 Catalina Villouta, Haoran Liao, Vincent Lieng
 
